@@ -4,10 +4,10 @@
 
 使用Python3、TensorFlow1.9和Keras2.2，课程介绍文章，[https://zhuanlan.zhihu.com/p/34744472](https://zhuanlan.zhihu.com/p/34744472)。
 
-- Github项目：[https://github.com/Honlan/DeepInterests](https://github.com/Honlan/DeepInterests)，包括182页的课程说明文档；
+- Github项目：[https://github.com/Honlan/DeepInterests](https://github.com/Honlan/DeepInterests)，包括182页的课程说明文档pdf；
 - 项目网盘：[https://pan.baidu.com/s/1zQRTR5X9JVUxQKNUZxyibg](https://pan.baidu.com/s/1zQRTR5X9JVUxQKNUZxyibg)，包括数据和代码，分为完整版和精简版两个版本，前者包括项目所涉及的完整内容，后者只包括最后执行所需的必要文件；
-- 知乎专栏：[https://zhuanlan.zhihu.com/DeepInterests](https://zhuanlan.zhihu.com/DeepInterests)；
-- 付费视频：[https://study.163.com/course/courseMain.htm?courseId=1004777011](https://pan.baidu.com/s/1zQRTR5X9JVUxQKNUZxyibg)。
+- 知乎专栏：[https://zhuanlan.zhihu.com/DeepInterests](https://zhuanlan.zhihu.com/DeepInterests)，包括在线版的文档和代码；
+- 付费视频：[https://study.163.com/course/courseMain.htm?courseId=1004777011](https://pan.baidu.com/s/1zQRTR5X9JVUxQKNUZxyibg)，让你更好、更快、更轻松、更全面的掌握每一个项目。
 
 献给每一个有趣的灵魂。
 
