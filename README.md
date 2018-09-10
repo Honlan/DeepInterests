@@ -6,6 +6,7 @@
 
 - Github项目：[https://github.com/Honlan/DeepInterests](https://github.com/Honlan/DeepInterests)，包括182页的课程说明文档；
 - 项目网盘：[https://pan.baidu.com/s/1zQRTR5X9JVUxQKNUZxyibg](https://pan.baidu.com/s/1zQRTR5X9JVUxQKNUZxyibg)，包括数据和代码，分为完整版和精简版两个版本，前者包括项目所涉及的完整内容，后者只包括最后执行所需的必要文件；
+- 知乎专栏：[https://zhuanlan.zhihu.com/DeepInterests](https://zhuanlan.zhihu.com/DeepInterests)；
 - 付费视频：[https://study.163.com/course/courseMain.htm?courseId=1004777011](https://pan.baidu.com/s/1zQRTR5X9JVUxQKNUZxyibg)。
 
 献给每一个有趣的灵魂。
